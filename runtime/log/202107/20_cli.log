@@ -1,0 +1,11 @@
+[ 2021-07-20T13:34:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006693s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-20T13:34:55+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-20T13:34:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.032273s ]
+info
+[ 2021-07-20T13:34:55+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-20T13:34:55+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info

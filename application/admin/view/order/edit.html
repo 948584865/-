@@ -1,0 +1,46 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Product_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-product_ids" data-rule="required" data-source="product/index" data-multiple="true" class="form-control selectpage" name="row[product_ids]" type="text" value="{$row.product_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('User_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-user_id" data-rule="required" data-source="user/user/index" data-field="nickname" class="form-control selectpage" name="row[user_id]" type="text" value="{$row.user_id|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Linker_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-linker_ids" data-rule="required" data-source="linker/index" data-multiple="true" class="form-control selectpage" name="row[linker_ids]" type="text" value="{$row.linker_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cost')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-cost" class="form-control" step="0.01" name="row[cost]" type="number" value="{$row.cost|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Paycost')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-payCost" class="form-control" step="0.01" name="row[payCost]" type="number" value="{$row.payCost|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Linker_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-linker_id" data-rule="required" data-source="linker/index" class="form-control selectpage" name="row[linker_id]" type="text" value="{$row.linker_id|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

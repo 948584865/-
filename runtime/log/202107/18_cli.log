@@ -1,0 +1,378 @@
+[ 2021-07-18T16:44:12+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000100s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T16:44:12+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T16:44:12+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016511s ]
+info
+[ 2021-07-18T19:18:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000179s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:18:23+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:18:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012900s ]
+info
+[ 2021-07-18T19:18:23+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:19:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000099s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:19:13+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:19:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010845s ]
+info
+[ 2021-07-18T19:19:13+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:19:38+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000125s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:19:38+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:19:38+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012871s ]
+info
+[ 2021-07-18T19:19:38+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:19:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000103s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:19:59+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:19:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011969s ]
+info
+[ 2021-07-18T19:19:59+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:20:34+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000152s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:20:34+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:20:34+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014826s ]
+info
+[ 2021-07-18T19:20:34+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:20:35+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info
+[ 2021-07-18T19:30:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000100s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:30:23+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:30:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016895s ]
+info
+[ 2021-07-18T19:30:24+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:30:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000158s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:30:41+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:30:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013247s ]
+info
+[ 2021-07-18T19:30:41+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:31:02+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:31:02+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:31:02+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014542s ]
+info
+[ 2021-07-18T19:31:02+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:31:06+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000147s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:31:06+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:31:06+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015488s ]
+info
+[ 2021-07-18T19:31:06+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:31:11+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000113s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:31:11+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:31:11+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012397s ]
+info
+[ 2021-07-18T19:31:11+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:31:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000120s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:31:41+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:31:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013341s ]
+info
+[ 2021-07-18T19:31:41+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:31:57+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000115s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:31:57+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:31:57+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013847s ]
+info
+[ 2021-07-18T19:32:19+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000098s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:32:19+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:32:19+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013625s ]
+info
+[ 2021-07-18T19:32:29+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000103s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:32:29+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:32:29+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011185s ]
+info
+[ 2021-07-18T19:32:29+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:32:52+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000106s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:32:52+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:32:52+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013430s ]
+info
+[ 2021-07-18T19:32:52+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:33:28+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000092s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:33:28+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:33:28+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012903s ]
+info
+[ 2021-07-18T19:33:28+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:33:40+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000118s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:33:40+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:33:40+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013327s ]
+info
+[ 2021-07-18T19:33:40+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:34:19+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000105s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:34:19+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:34:19+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012960s ]
+info
+[ 2021-07-18T19:34:19+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:34:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000094s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:34:27+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:34:27+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013532s ]
+info
+[ 2021-07-18T19:34:27+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:34:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000164s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:34:35+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:34:35+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012195s ]
+info
+[ 2021-07-18T19:34:35+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:34:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:34:50+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:34:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012385s ]
+info
+[ 2021-07-18T19:34:51+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:34:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000110s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:34:59+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:34:59+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011609s ]
+info
+[ 2021-07-18T19:35:00+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:35:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000104s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:35:08+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:35:08+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011110s ]
+info
+[ 2021-07-18T19:35:08+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:35:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:35:30+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:35:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.020241s ]
+info
+[ 2021-07-18T19:35:30+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:35:45+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:35:45+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:35:45+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013476s ]
+info
+[ 2021-07-18T19:35:45+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:45:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000120s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:45:41+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:45:41+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.026328s ]
+info
+[ 2021-07-18T19:45:41+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:48:31+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T19:48:31+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T19:48:31+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014902s ]
+info
+[ 2021-07-18T19:48:31+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T19:48:31+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info
+[ 2021-07-18T20:04:05+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:04:05+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:04:05+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015388s ]
+info
+[ 2021-07-18T20:04:05+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:04:21+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000108s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:04:21+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:04:22+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013902s ]
+info
+[ 2021-07-18T20:04:22+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:04:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000127s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:04:48+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:04:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012079s ]
+info
+[ 2021-07-18T20:04:48+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:05:06+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000100s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:05:06+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:05:06+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012592s ]
+info
+[ 2021-07-18T20:05:06+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:05:10+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000097s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:05:10+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:05:10+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012930s ]
+info
+[ 2021-07-18T20:05:10+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:05:10+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info
+[ 2021-07-18T20:15:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000128s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:15:48+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:15:48+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013134s ]
+info
+[ 2021-07-18T20:15:48+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:16:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000108s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:16:13+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:16:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013817s ]
+info
+[ 2021-07-18T20:16:13+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:16:21+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000104s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:16:21+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:16:21+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012821s ]
+info
+[ 2021-07-18T20:16:21+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:34:49+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000142s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:34:49+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:34:49+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016245s ]
+info
+[ 2021-07-18T20:34:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000105s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:34:50+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:34:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013012s ]
+info
+[ 2021-07-18T20:34:51+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:34:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000194s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:34:55+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:34:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014842s ]
+info
+[ 2021-07-18T20:34:55+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:35:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000132s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:35:55+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:35:55+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012155s ]
+info
+[ 2021-07-18T20:35:55+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T20:36:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000117s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T20:36:23+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T20:36:23+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013653s ]
+info
+[ 2021-07-18T20:36:23+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T22:34:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001684s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-18T22:34:36+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-18T22:34:36+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013953s ]
+info
+[ 2021-07-18T22:34:36+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-18T22:34:36+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info

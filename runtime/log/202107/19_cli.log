@@ -1,0 +1,29 @@
+[ 2021-07-19T21:49:58+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014478s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-19T21:49:58+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-19T21:49:58+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.023929s ]
+info
+[ 2021-07-19T21:49:58+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-19T21:52:02+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000114s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-19T21:52:02+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-19T21:52:02+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013938s ]
+info
+[ 2021-07-19T21:52:02+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-19T21:52:29+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000128s ]
+[ info ] [ LOG ] INIT File
+info
+[ 2021-07-19T21:52:29+08:00 ][ info ] [ CACHE ] INIT File
+info
+[ 2021-07-19T21:52:29+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013360s ]
+info
+[ 2021-07-19T21:52:29+08:00 ][ info ] [ DB ] INIT mysql
+info
+[ 2021-07-19T21:52:29+08:00 ][ info ] [ LANG ] /www/wwwroot/admin.ly.com/application/admin/lang/zh-cn.php
+info

@@ -1,0 +1,102 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="required" class="form-control" name="row[name]" type="text" value="{$row.name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Feature_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-feature_ids" data-rule="required" data-source="feature/index" data-multiple="true" class="form-control selectpage" name="row[feature_ids]" type="text" value="{$row.feature_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Departure_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-departure_ids" data-rule="required" data-source="departure/index" data-multiple="true" class="form-control selectpage" name="row[departure_ids]" type="text" value="{$row.departure_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('P_images')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-p_images" class="form-control" size="50" name="row[p_images]" type="text" value="{$row.p_images|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-p_images" class="btn btn-danger faupload" data-input-id="c-p_images" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp" data-multiple="true" data-preview-id="p-p_images"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-p_images" class="btn btn-primary fachoose" data-input-id="c-p_images" data-mimetype="image/*" data-multiple="true"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-p_images"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-p_images"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Jingdian_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-jingdian_ids" data-rule="required" data-source="jingdian/index" data-multiple="true" class="form-control selectpage" name="row[jingdian_ids]" type="text" value="{$row.jingdian_ids|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Days')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-days" class="form-control" name="row[days]" type="number" value="{$row.days|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Nights')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-nights" class="form-control" name="row[nights]" type="number" value="{$row.nights|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Separateprice')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-separatePrice" class="form-control" step="0.01" name="row[separatePrice]" type="number" value="{$row.separatePrice|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Pricechild')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-priceChild" class="form-control" step="0.01" name="row[priceChild]" type="number" value="{$row.priceChild|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Scheduling_content')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-scheduling_content" class="form-control editor" rows="5" name="row[scheduling_content]" cols="50">{$row.scheduling_content|htmlentities}</textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Price_content')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-price_content" class="form-control editor" rows="5" name="row[price_content]" cols="50">{$row.price_content|htmlentities}</textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Remark')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-remark" class="form-control " rows="5" name="row[remark]" cols="50">{$row.remark|htmlentities}</textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Status')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <div class="radio">
+            {foreach name="statusList" item="vo"}
+            <label for="row[status]-{$key}"><input id="row[status]-{$key}" name="row[status]" type="radio" value="{$key}" {in name="key" value="$row.status"}checked{/in} /> {$vo}</label> 
+            {/foreach}
+            </div>
+
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>
